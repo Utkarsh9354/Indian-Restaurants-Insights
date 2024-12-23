@@ -1,2 +1,2 @@
-
+![Screenshot 2024-12-23 150337](https://github.com/user-attachments/assets/c50c0050-feae-4c8a-b18f-80da570621a3)
 This repository features an in-depth analysis of Indian restaurants data, leveraging SQL queries and visualization techniques to derive meaningful insights. The analysis focuses on ratings, cost metrics, cuisine types, and vote distributions. Results are designed for Power BI visualization to build an interactive dashboard.
