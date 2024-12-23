@@ -1,6 +1,5 @@
 ![Screenshot 2024-12-23 150337](https://github.com/user-attachments/assets/c50c0050-feae-4c8a-b18f-80da570621a3)
-This repository features an in-depth analysis of Indian restaurants data, leveraging SQL queries and visualization techniques to derive meaningful insights. The analysis focuses on ratings, cost metrics, cuisine types, and vote distributions. Results are designed for Power BI visualization to build an interactive dashboard.
-
+This repository features an in-depth analysis of Indian restaurants data, leveraging SQL queries and visualization techniques to derive meaningful insights. The analysis focuses on ratings, cost metrics, cuisine types, and vote distributions. Results are designed for Power BI visualization to build an interactive dashboard, enabling strategic decisions for restaurant management and customer engagement.
 
 # Dataset Description
 
@@ -18,39 +17,38 @@ The dataset consists of 6,590 entries with the following attributes:
 # Insights from the Dashboard
 
 ## Key Metrics
-- Total Restaurants: 4,503
-- Total Cities Covered: 23
-- Total Cuisines: 2,096
-- Total Cost Volume: 7M INR
+- **Total Restaurants:** 4,503
+- **Total Cities Covered:** 23
+- **Total Cuisines:** 2,096
+- **Total Cost Volume:** 7M INR
 
 ## Geographic Distribution
-- Bangalore leads with 26.92% of total restaurants
-- Top 5 cities by restaurant count:
-  1. Bangalore (1,017)
-  2. Delhi (734)
-  3. Mumbai (727)
-  4. Kolkata (711)
-  5. Hyderabad (589)
+- **Bangalore leads** with 26.92% of total restaurants.
+- **Top 5 cities by restaurant count:**
+  1. **Bangalore** (1,017)
+  2. **Delhi** (734)
+  3. **Mumbai** (727)
+  4. **Kolkata** (711)
+  5. **Hyderabad** (589)
 
 ## Rating Demographics
-- Overall Average Rating: 4.09/5
-- Top rated cities:
-  1. Gurgaon (4.32)
-  2. Agra (4.25)
-  3. Ahmedabad (4.21)
+- **Overall Average Rating:** 4.09/5
+- **Top Rated Cities:**
+  1. **Gurgaon** (4.32)
+  2. **Agra** (4.25)
+  3. **Ahmedabad** (4.21)
 
 ## Cost Brackets Analysis
-- Below 500 INR
-- 500-1000 INR
-- 1000-1500 INR
-- 1500-2000 INR
-- Above 2000 INR
+- **Below 500 INR**
+- **500-1000 INR**
+- **1000-1500 INR**
+- **1500-2000 INR**
+- **Above 2000 INR**
 
 ## Customer Engagement
-- Average Votes per Restaurant: 119.47
-- Highest vote concentration in metropolitan cities
-- Bangalore leads in total vote count
-
+- **Average Votes per Restaurant:** 119.47
+- **Highest Vote Concentration:** Metropolitan cities
+- **City with Most Votes:** Bangalore
 
 # Questions Analyzed
 
@@ -72,7 +70,6 @@ The dataset consists of 6,590 entries with the following attributes:
 5. **Customer Engagement:**
    - Find restaurants with the highest number of votes.
    - Investigate correlations between ratings, votes, and cost.
-  
 
 # Summary of Findings
 
@@ -85,39 +82,39 @@ The dataset consists of 6,590 entries with the following attributes:
 # Limitations and Future Recommendations
 
 ### Current Limitations
-1. Data Timeframe
-- Lack of temporal data for seasonal analysis
-- No timestamp information for peak hours/days
+1. **Data Timeframe:**
+   - Lack of temporal data for seasonal analysis
+   - No timestamp information for peak hours/days
 
-2. Data Coverage
-- Limited to restaurant-level metrics
-- Missing customer demographic information
-- Absence of delivery-specific metrics
+2. **Data Coverage:**
+   - Limited to restaurant-level metrics
+   - Missing customer demographic information
+   - Absence of delivery-specific metrics
 
-3. Geographical Constraints
-- Uneven distribution across tier-2/3 cities
-- Limited data from suburban areas
-- Missing exact coordinates for spatial analysis
+3. **Geographical Constraints:**
+   - Uneven distribution across tier-2/3 cities
+   - Limited data from suburban areas
+   - Missing exact coordinates for spatial analysis
 
 ### Future Recommendations
 
-1. Data Collection
-- Implement timestamped data collection
-- Include customer demographics
-- Add delivery metrics and order patterns
-- Collect menu-level pricing data
+1. **Data Collection:**
+   - Implement timestamped data collection
+   - Include customer demographics
+   - Add delivery metrics and order patterns
+   - Collect menu-level pricing data
 
-2. Analysis Enhancement
-- Develop predictive models for demand
-- Create cuisine-specific price elasticity studies
-- Implement real-time rating analysis
-- Add competitor analysis framework
+2. **Analysis Enhancement:**
+   - Develop predictive models for demand
+   - Create cuisine-specific price elasticity studies
+   - Implement real-time rating analysis
+   - Add competitor analysis framework
 
-3. Technical Infrastructure
-- Integrate automated data validation
-- Implement real-time dashboard updates
-- Add geospatial analysis capabilities
-- Develop API for direct data access
+3. **Technical Infrastructure:**
+   - Integrate automated data validation
+   - Implement real-time dashboard updates
+   - Add geospatial analysis capabilities
+   - Develop API for direct data access
 
 # Conclusion
 
@@ -133,6 +130,9 @@ The insights enable:
 - Enhanced customer targeting
 - Data-driven expansion planning
 
-Connect for advanced analytics implementation!
+**Explore the interactive Power BI dashboard for a deeper dive into the data and insights!**
 
-#RestaurantAnalytics #DataScience #SqlAnalysis #PowerBI #FoodTech #BusinessIntelligence #DataVisualization
+#RestaurantAnalytics #DataScience #SQLAnalysis #PowerBI #FoodTech #BusinessIntelligence #DataVisualization #IndianRestaurants
+
+![Overview](https://github.com/user-attachments/assets/3f07d0af-6800-4adc-8153-bd845e9f12e0)
+
