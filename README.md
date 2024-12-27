@@ -133,6 +133,6 @@ The insights enable:
 **Explore the interactive Power BI dashboard for a deeper dive into the data and insights!**
 
 #RestaurantAnalytics #DataScience #SQLAnalysis #PowerBI #FoodTech #BusinessIntelligence #DataVisualization #IndianRestaurants
+![Overview](https://github.com/user-attachments/assets/3eb04fca-d71a-4371-bc18-1cf82255c99c)
 
-![Overview](https://github.com/user-attachments/assets/3f07d0af-6800-4adc-8153-bd845e9f12e0)
 
